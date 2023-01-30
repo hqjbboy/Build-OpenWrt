@@ -17,5 +17,5 @@
 # Add a feed source
 
 cat >> feeds.conf.default <<EOF
-src-git small8 https://github.com/kenzok8/small-package
+src-git small8 https://github.com/nhhqgirl/small-package
 EOF
